@@ -1,6 +1,6 @@
 # Yun Server Software
 ## Overview
-This is the software to be run on the Arduino Yun for Soccer-bots. 
+This is the software to be run on a raspberry Pi for soccerbots
 ## Why custom control system?
 Obviously the best training would be to have full FRC control systems for each soccer-bots team. However, several issues arise when doing so. The first and most obvious one is cost. Each FRC control system can cost upwards of $1000. With 6 teams and inexperienced members (i.e. more risk to break parts), it the cost to the team is quite substantial. Also, much of the functionality of the control system would remain unused as these robots are relatively simple, with most just being a simple drive base. 
 
